@@ -30,9 +30,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   - A Program to Choose a Random Image Every Time You Reload The Page
   - A Program That Displays a Message When You Click Button
   - A Program That Changes The Main Color OF The Page
-  - A Program 
-  - A Program 
-  - A Program 
+  - A Program Convert Text to Slig
+  - A Program Interacive Button
+  - A Program Get Repo Name
+    - A Program That Gives him A Person's Name ON Github and Gives you All The
+    Repo Names For That Person
   - A Program 
   - A Program 
   - A Program 

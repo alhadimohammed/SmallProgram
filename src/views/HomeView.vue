@@ -29,13 +29,13 @@
     <router-link :to="{ name: 'porjceFive' }">
       <div class="pojrct">
         <h3>Project 5</h3>
-        Show message
+        Convert Text to Slig
       </div>
     </router-link>
     <router-link :to="{ name: 'porjceSecx' }">
       <div class="pojrct">
         <h3>Project 6</h3>
-        Show message
+        Interacive Button
       </div>
     </router-link>
     <router-link :to="{ name: 'porjceSaven' }">
