@@ -33,13 +33,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   - A Program Convert Text to Slig
   - A Program Interacive Button
   - A Program Get Repo Name
-    - A Program That Gives him A Person's Name ON Github and Gives you All The
+  - A Program That Gives him A Person's Name ON Github and Gives you All The
     Repo Names For That Person
-  - A Program 
-  - A Program 
-  - A Program 
-  - A Program 
-  - A Program 
-  - A Program 
-  - A Program 
-  - A Program 
+  - A Program Show Answers
+  - A Program danomic Form
+  - A Program Toggle For Glass
+  - A Program To Do List
+  - A Program Gradient Generator
+  - A Program Taps

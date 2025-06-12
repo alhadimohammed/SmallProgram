@@ -10,7 +10,7 @@ import porjceSaven from "@/views/porjceSaven.vue";
 import porjceEat from "@/views/porjceEat.vue";
 import porjceNigen from "@/views/porjceNigen.vue";
 import porjceTan from "@/views/porjceTan.vue";
-import porjceElaven from "@/views/porjceElaven.vue";
+import porjceElventh from "@/views/porjceElventh.vue";
 import porjceTowaf from "@/views/porjceTowaf.vue";
 import porjceTharten from "@/views/porjceTharten.vue";
 import porjceForeten from "@/views/porjceForeten.vue";
@@ -74,8 +74,8 @@ const routes = [
   },
   {
     path: "/project-11",
-    name: "porjceElaven",
-    component: porjceElaven,
+    name: "porjceElventh",
+    component: porjceElventh,
   },
   {
     path: "/project-12",

@@ -41,49 +41,49 @@
     <router-link :to="{ name: 'porjceSaven' }">
       <div class="pojrct">
         <h3>Project 7</h3>
-        Show message
+        Get Repo Name
       </div>
     </router-link>
     <router-link :to="{ name: 'porjceEat' }">
       <div class="pojrct">
         <h3>Project 8</h3>
-        Show message
+        max characters
       </div>
     </router-link>
     <router-link :to="{ name: 'porjceNigen' }">
       <div class="pojrct">
         <h3>Project 9</h3>
-        Show message
+        Product Title
       </div>
     </router-link>
     <router-link :to="{ name: 'porjceTan' }">
       <div class="pojrct">
         <h3>Project 10</h3>
-        Show message
+        Show Answers
       </div>
     </router-link>
-    <router-link :to="{ name: 'porjceElaven' }">
+    <router-link :to="{ name: 'porjceElventh' }">
       <div class="pojrct">
         <h3>Project 11</h3>
-        Show message
+        danomic Form
       </div>
     </router-link>
     <router-link :to="{ name: 'porjceTowaf' }">
       <div class="pojrct">
         <h3>Project 12</h3>
-        Show message
+        Toggle For Glass
       </div>
     </router-link>
     <router-link :to="{ name: 'porjceTharten' }">
       <div class="pojrct">
         <h3>Project 13</h3>
-        Show message
+        To Do List
       </div>
     </router-link>
     <router-link :to="{ name: 'porjceForeten' }">
       <div class="pojrct">
         <h3>Project 14</h3>
-        Show message
+        Gradient Generator
       </div>
     </router-link>
     <router-link :to="{ name: 'porjceFivten' }">
